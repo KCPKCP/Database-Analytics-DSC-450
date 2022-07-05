@@ -1,0 +1,7 @@
+23, Michael Jordan, North Carolina, 2023, Hoops 101, 2, Athletics, A
+33, Larry Bird, Indiana State, 2022, Shooting 201, 4, Basketball, A
+24, Kobe Bryant, Lower Merion, 2025, Hoops 101, 2, Athletics, None
+34, Charles Barkley, Auburn, 2024, Rebounding 212, 4, Athletics, A
+6, LeBron James, SVSM Ohio, 2023, Rebounding 212, 4, Athletics, B
+32, Magic Johnson, Michigan State, 2022, Shooting 201, 4, Basketball, B
+24, Kobe Bryant, Lower Merion, 2025, Shooting 201, 4, Basketball, B

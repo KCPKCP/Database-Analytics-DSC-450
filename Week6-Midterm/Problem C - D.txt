@@ -1,0 +1,34 @@
+
+
+Read the lines of text file into a list or array...
+
+For CName and Credits:
+	create a Dictionary hoops
+
+	check is key, value exist already
+		if (key, value) in d.items():
+	
+	if not, then update Dictionary
+		hoops.update( {CName : Credits})
+	
+	if they do, then check if value is incorrect...
+		
+
+
+Look at this example:
+
+users = {"test1":"password1", "test2":"password2", "test3":"password3"}
+
+def test_login_script():
+    username = (input("Enter Username: "))
+    if username in users:
+        passwd = (input("Enter Password: "))
+        if users[username] == passwd:
+            print("\nLogin Successful!")
+        else:
+            print("\nPassword is incorrect. Please try again.\n")
+            test_login_script()
+    else:
+        print("\nUsername is incorrect or does not exist. Please try again.\n")
+        test_login_script()
+test_login_script()
